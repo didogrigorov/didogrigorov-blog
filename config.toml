@@ -32,7 +32,7 @@ link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/tabler-icons/tabler-icons.min.css"
 [[params.plugins.css]]
-link = "https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500&display=swap"
+link = "https://fonts.googleapis.com/css2?family=Work+Sans:wght@500;600&family=Crete+Round&display=swap"
 
 # JS Plugins
 [[params.plugins.js]]
