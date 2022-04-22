@@ -1,0 +1,118 @@
+######################## default configuration ####################
+title = "Dido Grigorov - Official Blog About SEO, Python, Golang and C++ Programming"
+theme = "qurno"
+# post pagination
+paginate = "8"
+# post excerpt
+summaryLength = "30"
+# google analytics
+googleAnalytics = "" # check the hugo documentation for more info on this - https://gohugo.io/templates/internal/#google-analytics
+# disqus short name
+DisqusShortname = "platol" # get your shortname form here : https://disqus.com
+
+############################# Image Processing ##############################
+[imaging]
+quality = "100"
+
+############################# Markup ##############################
+[markup.highlight]
+  style = 'colorful'
+
+############################# Outputs ##############################
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[markup.goldmark.renderer]
+unsafe= true
+
+############################## Plugins ##############################
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/tabler-icons/tabler-icons.min.css"
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css2?family=Noto+Sans:wght@500;600&display=swap"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/lightense/lightense.min.js"
+
+#################### Default Parameters ################################
+[params]
+logo = "images/logo.png"
+logo_width = "110px"
+favicon = "images/favicon.png"
+# Meta data
+description = "Minimal Blog Theme for HUGO Static Site Generator"
+author = "Dido Grigorov"
+# search
+search = true
+# main section
+mainSections = ["blog"]
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+# copyright
+copyright = "Dido Grigorov. All rights reserved." # ©2022(year will generate autometically) Qurno. All rights reserved.
+
+
+# Subscription
+[params.subscription]
+enable = true
+# mailchimp subsciption
+mailchimp_form_action = "https://didogrigorov.us14.list-manage.com/subscribe?u=3e297af76d0d8fe54ba36db59&id=f610070e1f" # replace this url with yours
+mailchimp_form_name = "b_92641572a6c6ec43da15feed0_d28bb2454f" # replace this code with yours
+title = "Get latest posts delivered right to your inbox"
+input_placeholder = "Your email address"
+button_label = "Join Me Today"
+
+# Contact Form
+[params.contact_form]
+enable = true
+contact_form_action = "https://airform.io/dido.grigorov@gmail.com"
+# replace the `contact_form_action` url with yours
+# you can use formspree, sheetmonkey etc etc
+
+# Main Menu
+[[menu.main]]
+name = "Home"
+url = ""
+weight = 1
+  
+[[menu.main]]
+name = "About Me"
+url = "about/"
+weight = 2
+
+[[menu.main]]
+name = "SEO Tips"
+url = "categories/seo/"
+weight = 3
+
+[[menu.main]]
+name = "Python"
+url = "categories/python/"
+weight = 4
+
+[[menu.main]]
+name = "C++"
+url = "categories/c++/"
+weight = 5
+
+[[menu.main]]
+name = "Golang"
+url = "categories/golang/"
+weight = 6
+  
+[[menu.main]]
+name = "Contact"
+url = "contact/"
+weight = 7
+
+# Footer Menu
+[[menu.footer]]
+name = "Privacy Policy"
+url = "privacy/"
+weight = 3
