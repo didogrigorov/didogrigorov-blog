@@ -7,7 +7,7 @@ draft: false
 #intro
 intro:
   enable: true
-  title: "I'm Dido Grigorov 123 - SEO Specialist & Python/C++ Programmer."
+  title: "I'm Dido Grigorov - SEO Specialist & Python/C++ Programmer."
   description: "Hello, I am Dilyan Grigorov, or Dido for short, as everyone knows me. I have been dealing with SEO professionally for over 20 years, since the dawn of search engines, as well as programming, which is my passion and hobby. I love solving problems as a programmer as well as a webmaster and I love learning new things every single day! <br><br>
 
 I am a Google Product Expert at the Search Central forums, as well as the Head of Content & Semantic department of Serpact, where I deal with content strategy, semantic analysis, natural language processing and technical SEO.<br><br>
