@@ -42,8 +42,8 @@ link = "plugins/lightense/lightense.min.js"
 
 #################### Default Parameters ################################
 [params]
-logo = "images/logo-dido-grigorov.png"
-logo_width = "160px"
+logo = "images/dido-logo.png"
+logo_width = "110px"
 favicon = "images/favicon.png"
 # Meta data
 description = "Minimal Blog Theme for HUGO Static Site Generator"
