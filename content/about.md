@@ -7,25 +7,27 @@ draft: false
 #intro
 intro:
   enable: true
-  title: "I'm Dido Grigorov - SEO Specialist & Python/C++ Programmer."
-  description: "Hello, I am Dilyan Grigorov, or Dido for short, as everyone knows me. I have been dealing with SEO professionally for over 20 years, since the dawn of search engines, as well as programming, which is my passion and hobby. I love solving problems as a programmer as well as a webmaster and I love learning new things every single day! <br><br>
+  title: "I'm Dido Grigorov - SEO Specialist & Software Development Enthusiast."
+  description: "Hello, I am Dilyan Grigorov, or Dido for short, as everyone knows me. I have been dealing with SEO professionally for over 20 years, since the dawn of search engines, as well as programming, which is something I'm very passionate about. I love solving problems as a programmer as well as a webmaster and I love learning new things every single day! <br><br>
 
-I am a Google Product Expert at the Search Central forums, as well as the Head of Content & Semantic department of Serpact, where I deal with content strategy, semantic analysis, natural language processing and technical SEO.<br><br>
+I am a Google Product Expert at the Google Search Central forums, as well as the Head of Content & Semantic department of Serpact, where I deal with content strategy, semantic analysis, natural language processing and technical SEO.<br><br>
 
 I had the good fortune to be a part of 2 Google events, which is a great honor for me and I consider them very special moments in my life:<br>
  - Google Dance Zurich 2018, September<br>
  - Google Webmaster Unconference June 2021<br>
-
- <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
 <br>
 <br>
 In 2022, I was also a speaker at BrightonSEO, where for the first time I dared to present a topic on which I presented Python scripts to help content marketers plan content for websites.
 <br>
 <br>
+## My Values ##
+<strong>Here are the most important values based on which I move my life ahead:</strong>
+- Honesty and Trust
+- Flexibility
+- Responsibility
+- Collaboration
+- Sustainability
+- Persistence
 
 ## A little background… ##
 
