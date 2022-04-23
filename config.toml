@@ -87,29 +87,19 @@ url = "about/"
 weight = 2
 
 [[menu.main]]
-name = "SEO Tips"
-url = "categories/seo/"
+name = "Software Development"
+url = "categories/software-development/"
 weight = 3
 
 [[menu.main]]
-name = "Python"
-url = "categories/python/"
+name = "Data Science"
+url = "categories/data-science/"
 weight = 4
-
-[[menu.main]]
-name = "C++"
-url = "categories/c++/"
-weight = 5
-
-[[menu.main]]
-name = "Golang"
-url = "categories/golang/"
-weight = 6
   
 [[menu.main]]
 name = "Contact"
 url = "contact/"
-weight = 7
+weight = 5
 
 # Footer Menu
 [[menu.footer]]
