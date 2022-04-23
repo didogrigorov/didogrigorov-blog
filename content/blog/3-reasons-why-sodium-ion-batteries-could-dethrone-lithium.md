@@ -4,8 +4,8 @@ description: "Lithium-ion batteries have played a vital role in the development 
 image: "images/blog/01.jpg"
 date: 2019-01-10T16:56:47+06:00
 author: "Dido Grigorov"
-categories: ["Python"]
-tags: ["Python Development"]
+categories: ["Software Development"]
+tags: ["Python"]
 draft: false
 ---
 
