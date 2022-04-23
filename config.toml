@@ -12,7 +12,7 @@ DisqusShortname = "platol" # get your shortname form here : https://disqus.com
 
 ############################# Image Processing ##############################
 [imaging]
-quality = "150"
+quality = "100"
 
 ############################# Markup ##############################
 [markup.highlight]
@@ -42,8 +42,8 @@ link = "plugins/lightense/lightense.min.js"
 
 #################### Default Parameters ################################
 [params]
-logo = "images/dido-logo.png"
-logo_width = "110px"
+logo = "images/dido-logo-350.png"
+logo_width = "350px"
 favicon = "images/favicon.png"
 # Meta data
 description = "Minimal Blog Theme for HUGO Static Site Generator"
