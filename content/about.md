@@ -23,7 +23,7 @@ In 2022, I was also a speaker at BrightonSEO, where for the first time I dared t
 
 ## My Values & My Life ##
 
-<br><br>
+<br>
 <strong>Here are the most important values based on which I move my life ahead:</strong><br>
 - Honesty and Trust<br>
 - Flexibility<br>
