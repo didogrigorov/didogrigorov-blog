@@ -52,6 +52,7 @@ I am also actively interested in Data Science, Machine Learning and one of my fa
 I am currently refreshing my programming skills by enrolling in various software development academies, taking courses, and very soon, I intend to start contributing to open-source software projects.<br><br>
 
 ## Programming languages I have worked with... ##
+
 <br>
 - Python<br>
 - C/C++<br>
