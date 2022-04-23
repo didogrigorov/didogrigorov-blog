@@ -12,7 +12,7 @@ DisqusShortname = "platol" # get your shortname form here : https://disqus.com
 
 ############################# Image Processing ##############################
 [imaging]
-quality = "100"
+quality = "150"
 
 ############################# Markup ##############################
 [markup.highlight]
