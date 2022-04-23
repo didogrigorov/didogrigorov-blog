@@ -4,8 +4,8 @@ description: "While futurists and fundraisers used to make bullish predictions a
 image: "images/blog/02.jpg"
 date: 2021-12-05T11:35:57+06:00
 author: "Dido Grigorov"
-categories: ["SEO"]
-tags: ["Webmasters","SEO Optimization"]
+categories: ["Data Science"]
+tags: ["Python", "C++"]
 draft: false
 ---
 
