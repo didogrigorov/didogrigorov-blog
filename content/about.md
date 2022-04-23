@@ -20,7 +20,8 @@ I had the good fortune to be a part of 2 Google events, which is a great honor f
 In 2022, I was also a speaker at BrightonSEO, where for the first time I dared to present a topic on which I presented Python scripts to help content marketers plan content for websites.
 <br>
 <br>
-## My Values ##
+
+## My Values & My Life ##
 <br><br>
 <strong>Here are the most important values based on which I move my life ahead:</strong><br>
 - Honesty and Trust<br>
@@ -29,6 +30,7 @@ In 2022, I was also a speaker at BrightonSEO, where for the first time I dared t
 - Collaboration<br>
 - Sustainability<br>
 - Persistence<br>
+- Dedication<br>
 
 ## A little background… ##
 
