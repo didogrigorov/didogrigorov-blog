@@ -32,8 +32,8 @@ In 2022, I was also a speaker at BrightonSEO, where for the first time I dared t
 - Persistence<br>
 - Dedication<br>
 - Always ready to share knowledge and experience.<br>
-- I enjoy challenges.<br>
-- I am always open for new ideas.<br>
+- I love challenges.<br>
+- I am always open for new ideas and different perspectives.<br>
 
 ## A little background… ##
 
