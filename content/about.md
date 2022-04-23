@@ -15,6 +15,12 @@ I am a Google Product Expert at the Search Central forums, as well as the Head o
 I had the good fortune to be a part of 2 Google events, which is a great honor for me and I consider them very special moments in my life:<br>
  - Google Dance Zurich 2018, September<br>
  - Google Webmaster Unconference June 2021<br>
+
+ <ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
 <br>
 <br>
 In 2022, I was also a speaker at BrightonSEO, where for the first time I dared to present a topic on which I presented Python scripts to help content marketers plan content for websites.
