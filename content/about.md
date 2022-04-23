@@ -37,23 +37,32 @@ In 2022, I was also a speaker at BrightonSEO, where for the first time I dared t
 
 ## A little background… ##
 
-My first contact with IT was when I was 11 or back in 1999. My mother and I had a tradition of visiting local bookstores regularly. So one day, without knowing what I was doing, I got a book on C++.<br><br>
+My first touch with IT was when I was 11 or back in 1999. My mother and I had a tradition of visiting local bookstores regularly. So one day, without knowing what I was doing, I got a book on C++.<br><br>
 
 At first the language seemed complicated, but even as a child, I found that it was the fact that it was complicated that attracted me. I started solving problems, as well as looking for options to make CLI applications to solve various problems. I was happy with every task solved, the right answers and the fact that the applications helped in the implementation of certain work tasks on assignments by people and my teachers then.<br><br>
 
-Later, in 2002, I became interested in PHP as the world's interest in it grew, and when I was at high school I was among classmates who wrote code using it. I was learning how to create custom WordPress websites as well as PHP sites from scratch. Over the years, I have created many sites in various niches - from corporate and university websites, to online stores.<br><br>
-
 In 2003, SEO also found a place in my interests, although it was quite different then than it is now. However, I was wondering what practices to apply to help sites get better visibility on Google.<br><br>
 
-So, until I came across Python in 2007. I will not hide that it is my great passion, although I'm able to quickly understand almost all programming languages. For 4 years I was involved in the creation of different types of software in different professional fields. This was followed by a period of shifting the professional focus, mainly to SEO, which is why I left programming, although my great passion, for a long time.<br><br>
+This was also followed by entering different programming languages and different projects over the years - Python, Ruby, PHP, SQL, as well as the basis of the web - HTML, CSS, Javascript. The projects ranged from web-based to desktop-based, in the form of various challenges - from creating online stores and corporate websites, to participating in software applications for airline tickets and accounting. Until I left programming for a long time to devote more time to marketing.<br><br>
 
-In a special and difficult moment of my life, I returned to it. I have found that time can blur programming training and the specific practices that need to be applied, but the specific thinking of a programmer remains.  I went through a series of refresher courses in various online and mobile applications on C++, Python, Javascript, Go, but Python remains my favorite language. I found that I love data processing with it, as well as creating CLI applications and various functionalities for retrieving and processing information.<br><br>
+In a special and difficult moment of my life last year, I returned back to it. I have found that time can blur programming training and the specific practices that need to be applied, but the specific thinking of a programmer remains.  I went through a series of refresher courses in various online and mobile educational apps on C++, Python, Javascript, Go, Java. I found that I love creating of CLI applications and various functionalities for retrieving and processing information.<br><br>
 
-I am also actively interested in Machine Learning and my favorite topic - Natural Language Processing. I am also interested in Information Retrieval, Text understanding & classification, Pattern recognition, Recommendation systems, Ranking systems.<br><br>
+I am also actively interested in Data Science, Machine Learning and one of my favorite topics - Natural Language Processing. I like Information Retrieval, Text understanding & classification, Pattern recognition, Recommendation systems, Ranking systems as well.<br><br>
 
-I still want and I'm passionate to write code in C++, but I also have a new interest in programming, the Golang language, created by Google, which has very fast performance and is growing its community more and more.<br><br>
+I am currently refreshing my programming skills by enrolling in various software development academies, taking courses, and very soon, I intend to start contributing to open-source software projects.<br><br>
 
-I am currently refreshing my programming skills by enrolling in various software development academies, taking courses, and very soon, I intend to start and contribute to open-source software projects mainly based on Python, C++, and Golang."
+## Programming languages I have worked with... ##
+<br>
+- Python<br>
+- C/C++<br>
+- HTML & CSS<br>
+- Javascript<br>
+- Ruby<br>
+- PHP<br>
+- SQL<br>
+- Java<br>
+"
+
 
   images:
   - src: "images/about/google-dance-zurich.jpg"
